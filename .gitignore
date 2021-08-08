@@ -1,0 +1,5 @@
+.terraform*
+terraform*
+*.pem
+*.out
+__pycache__
